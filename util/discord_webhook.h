@@ -1,0 +1,4 @@
+#ifndef DISCORD_WEBHOOK_H
+#define DISCORD_WEBHOOK_H
+
+#endif //DISCORD_WEBHOOK_H
